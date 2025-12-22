@@ -1,6 +1,5 @@
 import random
 
-# Diccionario de categorías y palabras (tuplas)
 palabras_dict = {
     "Animales": ("perro", "gato", "elefante", "jirafa"),
     "Objetos": ("casa", "silla", "mesa", "laptop"),
@@ -64,7 +63,6 @@ def jugar():
                 print(f"\nPerdiste. La palabra correcta era '{palabra}'.")
                 break
 
-# Bucle principal para volver a jugar
 if __name__ == "__main__":
     while True:
         print("====== JUEGO DEL AHORCADO ======")
