@@ -24,10 +24,15 @@ Opción para volver a jugar sin reiniciar el programa
 El código está organizado de la siguiente manera:
 
 Diccionario de palabras: almacena categorías y palabras usando tuplas
+
 Función elegir_palabra(): selecciona aleatoriamente una categoría y palabra
+
 Función pedir_letra(): valida la entrada del usuario
+
 Función procesar_acierto(): verifica si la letra está en la palabra
+
 Función jugar(): controla la lógica principal del juego
+
 Bloque principal (__main__): permite repetir el juego
 
 Tecnologías utilizadas
