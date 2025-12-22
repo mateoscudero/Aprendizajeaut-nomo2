@@ -4,6 +4,8 @@ Este proyecto consiste en el desarrollo de un juego programado en Python el cual
 
 El proyecto demuestra cómo las nuevas tecnologías, específicamente la programación, pueden utilizarse para crear herramientas interactivas que apoyan el aprendizaje, el razonamiento lógico y la resolución de problemas, aspectos clave en el desarrollo tecnológico actual y futuro de la sociedad.
 
+
+
 El objetivo principal del programa es:
 
 Aplicar la lógica de programación en un proyecto funcional
@@ -20,6 +22,8 @@ Principales funcionalidades del código
 
 Selección aleatoria de una categoría y palabra usando la librería estándar random
 
+
+
 Validación de la entrada del usuario:
 
 Solo permite letras
@@ -33,6 +37,8 @@ Visualización del progreso de la palabra
 Mensajes de victoria o derrota
 
 Opción para volver a jugar sin reiniciar el programa
+
+
 
 El código está organizado de la siguiente manera:
 
@@ -48,6 +54,8 @@ Función jugar(): controla la lógica principal del juego
 
 Bloque principal (__main__): permite repetir el juego
 
+
+
 Tecnologías utilizadas
 
 Lenguaje de programación: Python
@@ -57,5 +65,7 @@ Librería estándar: random
 Paradigma: Programación estructurada
 
 Entorno: Consola / Terminal
+
+
 
 Fecha:21/12/2025
